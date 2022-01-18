@@ -1,6 +1,4 @@
 # PHP_guide
-php guide 
-Ebben a repositoryban néhány segédlet van a php nyelvhez. 
-A kódok nem összefüggők és hiányosak! 
 
-Bővítés szükséges
+Ebben a könyvtárban a  php tantárgy előző vizsgái vannak megoldva. (Néhány megoldás hiányos.)
+A PHP_guide mappában egy ultimate guide van mindennel, ami egy sikeres vizsgához kell.
